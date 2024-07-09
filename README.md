@@ -1,6 +1,7 @@
 # Meet Madison
 
 ## Description
+Meet Madison, the portfolio showcasing Madison (Nelson)
 This is a personal website showcasing my portfolio, blog, and contact information.
 
 ## Table of Contents
